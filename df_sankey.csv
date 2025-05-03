@@ -1,0 +1,150 @@
+Country,ISO_Code,Cluster_2015,Score_2015,Cluster_2019,Score_2019
+Switzerland,CHE,3,7.587,2,7.48
+Iceland,ISL,3,7.561,2,7.494
+Denmark,DNK,3,7.527,2,7.6
+Norway,NOR,3,7.522,2,7.554
+Canada,CAN,3,7.427,2,7.278
+Finland,FIN,3,7.406,2,7.769
+Netherlands,NLD,3,7.378,2,7.488
+Sweden,SWE,3,7.364,2,7.343
+New Zealand,NZL,3,7.286,2,7.307
+Australia,AUS,3,7.284,2,7.228
+Israel,ISR,4,7.278,5,7.139
+Costa Rica,CRI,2,7.226,0,7.167
+Austria,AUT,3,7.2,2,7.246
+Mexico,MEX,2,7.187,0,6.595
+United States,USA,3,7.119,2,6.892
+Brazil,BRA,2,6.983,0,6.3
+Luxembourg,LUX,3,6.946,2,7.09
+Ireland,IRL,3,6.94,2,7.021
+Belgium,BEL,3,6.937,2,6.923
+United Arab Emirates,ARE,3,6.901,2,6.825
+United Kingdom,GBR,3,6.867,2,7.054
+Venezuela,VEN,2,6.81,0,4.707
+Singapore,SGP,5,6.798,6,6.262
+Panama,PAN,2,6.786,0,6.321
+Germany,DEU,3,6.75,2,6.985
+Chile,CHL,2,6.67,0,6.444
+Qatar,QAT,3,6.611,5,6.374
+France,FRA,3,6.575,2,6.592
+Argentina,ARG,2,6.574,0,6.086
+Czech Republic,CZE,0,6.505,7,6.852
+Uruguay,URY,2,6.485,0,6.293
+Colombia,COL,2,6.477,0,6.125
+Thailand,THA,5,6.455,6,6.008
+Saudi Arabia,SAU,4,6.411,5,6.375
+Spain,ESP,3,6.329,2,6.354
+Malta,MLT,3,6.302,2,6.726
+Taiwan,TWN,7,6.298,4,6.446
+Kuwait,KWT,4,6.295,5,6.021
+El Salvador,SLV,2,6.13,0,6.253
+Guatemala,GTM,2,6.123,0,6.436
+Uzbekistan,UZB,0,6.003,2,6.174
+Slovakia,SVK,0,5.995,7,6.198
+Japan,JPN,7,5.987,4,5.886
+South Korea,KOR,7,5.984,4,5.895
+Ecuador,ECU,2,5.975,0,6.028
+Bahrain,BHR,4,5.96,5,6.199
+Italy,ITA,3,5.948,7,6.223
+Bolivia,BOL,2,5.89,0,5.779
+Moldova,MDA,0,5.889,7,5.529
+Paraguay,PRY,2,5.878,0,5.743
+Kazakhstan,KAZ,0,5.855,7,5.809
+Slovenia,SVN,0,5.848,7,6.118
+Lithuania,LTU,0,5.833,7,6.149
+Nicaragua,NIC,2,5.828,0,6.105
+Peru,PER,2,5.824,0,5.697
+Belarus,BLR,0,5.813,7,5.323
+Poland,POL,0,5.791,7,6.182
+Malaysia,MYS,5,5.77,6,5.339
+Croatia,HRV,0,5.759,7,5.432
+Libya,LBY,4,5.754,5,5.525
+Russia,,0,5.716,7,5.648
+Jamaica,JAM,2,5.709,0,5.89
+Cyprus,CYP,3,5.689,2,6.046
+Algeria,DZA,4,5.605,5,5.211
+Kosovo,,0,5.589,7,6.1
+Turkmenistan,TKM,0,5.548,7,5.247
+Mauritius,MUS,0,5.477,7,5.888
+Hong Kong,HKG,7,5.474,4,5.43
+Estonia,EST,0,5.429,7,5.893
+Indonesia,IDN,5,5.399,6,5.192
+Vietnam,VNM,5,5.36,6,5.175
+Turkey,,4,5.332,5,5.373
+Kyrgyzstan,KGZ,0,5.286,7,5.261
+Nigeria,NGA,1,5.268,1,5.265
+Bhutan,BTN,6,5.253,3,5.082
+Azerbaijan,AZE,0,5.212,7,5.208
+Pakistan,PAK,6,5.194,3,5.653
+Jordan,JOR,4,5.192,5,4.906
+Montenegro,MNE,0,5.192,7,5.523
+China,CHN,7,5.14,4,5.191
+Zambia,ZMB,1,5.129,1,4.107
+Romania,ROU,0,5.124,7,6.07
+Serbia,SRB,0,5.123,7,5.603
+Portugal,PRT,3,5.102,2,5.693
+Latvia,LVA,0,5.098,7,5.94
+Philippines,PHL,5,5.073,6,5.631
+Morocco,MAR,4,5.013,5,5.208
+Mozambique,MOZ,1,4.971,1,4.466
+Albania,ALB,0,4.959,7,4.719
+Bosnia and Herzegovina,BIH,0,4.949,7,5.386
+Lesotho,LSO,1,4.898,1,3.802
+Dominican Republic,DOM,2,4.885,0,5.425
+Laos,LAO,5,4.876,6,4.796
+Mongolia,MNG,7,4.874,4,5.285
+Swaziland,,1,4.867,1,4.212
+Greece,GRC,0,4.857,7,5.287
+Lebanon,LBN,4,4.839,5,5.197
+Hungary,HUN,0,4.8,7,5.758
+Honduras,HND,2,4.788,0,5.86
+Tajikistan,TJK,0,4.786,7,5.467
+Tunisia,TUN,4,4.739,5,4.461
+Palestinian Territories,,4,4.715,7,4.696
+Bangladesh,BGD,6,4.694,3,4.456
+Iran,IRN,4,4.686,5,4.548
+Ukraine,UKR,0,4.681,7,4.332
+Iraq,IRQ,4,4.677,5,4.437
+South Africa,ZAF,1,4.642,1,4.722
+Ghana,GHA,1,4.633,1,4.996
+Zimbabwe,ZWE,1,4.61,1,3.663
+Liberia,LBR,1,4.571,1,3.975
+India,IND,6,4.565,3,4.015
+Haiti,HTI,1,4.518,1,3.597
+Congo (Kinshasa),,1,4.517,1,4.418
+Nepal,NPL,6,4.514,3,4.913
+Ethiopia,ETH,1,4.512,1,4.286
+Sierra Leone,SLE,1,4.507,1,4.374
+Mauritania,MRT,1,4.436,1,4.49
+Kenya,KEN,1,4.419,1,4.509
+Armenia,ARM,0,4.35,7,4.559
+Botswana,BWA,1,4.332,1,3.488
+Myanmar,MMR,5,4.307,6,4.36
+Georgia,GEO,0,4.297,7,4.519
+Malawi,MWI,1,4.292,1,3.41
+Sri Lanka,LKA,6,4.271,3,4.366
+Cameroon,CMR,1,4.252,1,5.044
+Bulgaria,BGR,0,4.218,7,5.011
+Egypt,EGY,4,4.194,5,4.166
+Yemen,YEM,4,4.077,5,3.38
+Mali,MLI,1,3.995,1,4.39
+Congo (Brazzaville),,1,3.989,1,4.812
+Comoros,COM,1,3.956,1,3.973
+Uganda,UGA,1,3.931,1,4.189
+Senegal,SEN,1,3.904,1,4.681
+Gabon,GAB,1,3.896,1,4.799
+Niger,NER,1,3.845,1,4.628
+Cambodia,KHM,5,3.819,6,4.7
+Tanzania,TZA,1,3.781,1,3.231
+Madagascar,MDG,1,3.681,1,3.933
+Central African Republic,CAF,1,3.678,1,3.083
+Chad,TCD,1,3.667,1,4.35
+Guinea,GIN,1,3.656,1,4.534
+Ivory Coast,,1,3.655,1,4.944
+Burkina Faso,BFA,1,3.587,1,4.587
+Afghanistan,AFG,6,3.575,3,3.203
+Rwanda,RWA,1,3.465,1,3.334
+Benin,BEN,1,3.34,1,4.883
+Syria,SYR,4,3.006,5,3.462
+Burundi,BDI,1,2.905,1,3.775
+Togo,TGO,1,2.839,1,4.085
