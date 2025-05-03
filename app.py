@@ -13,6 +13,7 @@ df_2019_scaled = pd.read_csv("df_2019_scaled.csv")
 st.set_page_config(layout="wide")
 st.title("🌍 Global Happiness Clustering Dashboard")
 st.subheader("Explore Socio-Economic Clusters from the World Happiness Report (2015 & 2019)")
+st.write("Version 1")
 
 tab1, tab2, tab3, tab4, tab5 = st.tabs([
     "Cluster-wise World Map", "Radar Chart – Cluster Profile", 
@@ -111,3 +112,18 @@ with tab5:
         barmode='group'
     )
     st.plotly_chart(fig_bar, use_container_width=True)
+
+st.markdown(
+    """
+    <hr style="margin-top: 50px;">
+    <div style='text-align: center; font-size: 14px;'>
+        🔍 K-Means Clustering Code available on 
+        <a href='https://github.com/fouzul-hassan/happiness-score-analysis-2015-and-2019' target='_blank'>
+            GitHub
+        </a>
+        <br>
+        Made by Fouzul Hassan
+    </div>
+    """,
+    unsafe_allow_html=True
+)
